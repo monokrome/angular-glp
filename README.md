@@ -1,6 +1,8 @@
 angular-glp
 ===========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/monokrome/angular-glp.svg)](https://greenkeeper.io/)
+
 A simple Angular template for [GLP][glp].
 
 
